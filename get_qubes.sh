@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-QUBES_REL="4.2.1" # Update this to the current version you want
+QUBES_REL="4.3.0" # Update this to the current version you want
 ISO_NAME="Qubes-R$QUBES_REL-x86_64.iso"
 SIG_NAME="$ISO_NAME.asc"
 BASE_URL="https://mirrors.edge.kernel.org/qubes/iso" # High speed mirror
